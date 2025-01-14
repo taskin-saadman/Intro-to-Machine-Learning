@@ -1,5 +1,5 @@
 # Intro-to-Machine-Learning
-Basic example of using Decision Tree Regressor to predict housing prices in Melbourne using pandas and sklearn
+Basic example of using Decision Tree Regressor to predict housing prices in Melbourne using pandas and sklearn. I learned this using kaggle.
 
 # Script-Overview
 1. **Importing Libraries**:
