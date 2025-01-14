@@ -14,7 +14,7 @@ def get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y):
     return mae
 
 
-#main function
+#main code
 if __name__ == "__main__":
     # Load data
     data = pd.read_csv('melb_data.csv')
